@@ -1,2 +1,3 @@
 # 427-final-project
-githb submission of 427 final project
+github submission of 427 final project
+
